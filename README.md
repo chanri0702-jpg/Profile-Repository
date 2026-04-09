@@ -37,9 +37,13 @@ Software Testing
 
 ## Projects:
 
-[Superhero_Window_Forms_App][https://github.com/chanri0702-jpg/Superhero-App]
-
-
+[Smart Farm (Individual Team: Chicken Coop)][]
+[Smart Far (Entire Project)][]
+[Superhero Window Forms App][https://github.com/chanri0702-jpg/Superhero-App]
+[Fitness Tracker Website][https://github.com/chanri0702-jpg/Fitness_Tracking_Website]
+[Automated Software Testing using UnitX][https://github.com/chanri0702-jpg/Software_Testing]
+[Library Console App][https://github.com/chanri0702-jpg/Library_Console_App]
+[Animal Shelter Database Design][https://github.com/chanri0702-jpg/Library_Console_App]
 
 ## CV:
 [Download My CV][https://github.com/chanri0702-jpg/Superhero-App]
