@@ -37,9 +37,7 @@ Software Testing
 
 ## Projects:
 
-[Smart Farm (Individual Team: Chicken Coop)]()
-
-[Smart Far (Entire Project)]()
+[Smart Farm (Individual Team: Chicken Coop)](https://github.com/chanri0702-jpg/Chicken_Coop_Website)
 
 [Superhero Window Forms App](https://github.com/chanri0702-jpg/Superhero-App)
 
