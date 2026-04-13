@@ -50,4 +50,7 @@ Software Testing
 [Animal Shelter Database Design](https://github.com/chanri0702-jpg/Library_Console_App)
 
 ## CV:
-[Download My CV]()
+[View My CV](https://github.com/chanri0702-jpg/CV)
+
+## LinkedIn
+[Profile](https://www.linkedin.com/in/chanri-du-randt-8b1359286/)
